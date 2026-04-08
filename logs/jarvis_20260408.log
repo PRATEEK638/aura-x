@@ -1,0 +1,47 @@
+2026-04-08 15:30:17 [INFO] jarvis.voice.listener: Microphone calibrated for ambient noise
+2026-04-08 15:32:16 [INFO] jarvis.voice.listener: Microphone calibrated for ambient noise
+2026-04-08 15:32:16 [INFO] jarvis.tools.executor: Loaded 12 tools
+2026-04-08 15:32:17 [INFO] jarvis.voice.speaker: TTS engine initialized. Rate=175, Volume=1.0
+2026-04-08 15:32:21 [WARNING] jarvis.vision.ocr: Tesseract not found: tesseract is not installed or it's not in your PATH. See README file for more information.. Install tesseract-ocr.
+2026-04-08 15:32:21 [INFO] jarvis.vision.capture: OCR engine loaded for screen monitor
+2026-04-08 15:32:21 [INFO] jarvis.vision.capture: Screen monitor started at 2.0 FPS
+2026-04-08 15:32:21 [INFO] jarvis.voice.listener: Voice listener started. Wake word: 'jarvis'
+2026-04-08 15:32:21 [INFO] jarvis.assistant: Jarvis started successfully
+2026-04-08 15:32:50 [INFO] jarvis.ai.router: Intent: conversation (0.50), Complexity: simple, Model: general
+2026-04-08 15:32:56 [WARNING] jarvis.ai.router: Ollama (llama3) failed: Ollama HTTP error: 404 Client Error: Not Found for url: http://localhost:11434/api/chat
+2026-04-08 15:32:56 [INFO] jarvis.ai.router: Intent: conversation (0.30), Complexity: simple, Model: general
+2026-04-08 15:32:58 [WARNING] jarvis.ai.router: Ollama (llama3) failed: Ollama HTTP error: 404 Client Error: Not Found for url: http://localhost:11434/api/chat
+2026-04-08 15:37:11 [INFO] jarvis.voice.listener: Microphone calibrated for ambient noise
+2026-04-08 15:37:11 [INFO] jarvis.tools.executor: Loaded 12 tools
+2026-04-08 15:37:11 [INFO] jarvis.voice.speaker: TTS engine initialized. Rate=175, Volume=1.0
+2026-04-08 15:37:12 [WARNING] jarvis.vision.ocr: Tesseract not found: tesseract is not installed or it's not in your PATH. See README file for more information.. Install tesseract-ocr.
+2026-04-08 15:37:12 [INFO] jarvis.vision.capture: OCR engine loaded for screen monitor
+2026-04-08 15:37:12 [INFO] jarvis.vision.capture: Screen monitor started at 2.0 FPS
+2026-04-08 15:37:12 [INFO] jarvis.voice.listener: Voice listener started. Wake word: 'jarvis'
+2026-04-08 15:37:12 [INFO] jarvis.assistant: Jarvis started successfully
+2026-04-08 15:37:33 [INFO] jarvis.ai.router: Intent: automation (0.33), Complexity: simple, Model: general
+2026-04-08 15:37:42 [DEBUG] jarvis.ai.router: Ollama (llama3) responded in 8957ms
+2026-04-08 15:38:20 [INFO] jarvis.ai.router: Intent: conversation (0.50), Complexity: simple, Model: general
+2026-04-08 15:38:25 [DEBUG] jarvis.ai.router: Ollama (llama3) responded in 4937ms
+2026-04-08 15:38:54 [INFO] jarvis.ai.router: Intent: conversation (0.30), Complexity: simple, Model: general
+2026-04-08 15:39:01 [DEBUG] jarvis.ai.router: Ollama (llama3) responded in 7154ms
+2026-04-08 15:43:11 [INFO] jarvis.voice.listener: Microphone calibrated for ambient noise
+2026-04-08 15:43:11 [INFO] jarvis.tools.executor: Loaded 12 tools
+2026-04-08 15:43:12 [INFO] jarvis.voice.speaker: TTS engine initialized. Rate=175, Volume=1.0
+2026-04-08 15:43:12 [WARNING] jarvis.vision.ocr: Tesseract not found: tesseract is not installed or it's not in your PATH. See README file for more information.. Install tesseract-ocr.
+2026-04-08 15:43:12 [INFO] jarvis.vision.capture: OCR engine loaded for screen monitor
+2026-04-08 15:43:12 [INFO] jarvis.vision.capture: Screen monitor started at 2.0 FPS
+2026-04-08 15:43:12 [INFO] jarvis.voice.listener: Voice listener started. Wake word: 'jarvis'
+2026-04-08 15:43:12 [INFO] jarvis.assistant: Jarvis started successfully
+2026-04-08 15:44:06 [INFO] jarvis.ai.router: Intent: automation (0.33), Complexity: simple, Model: general
+2026-04-08 15:46:06 [INFO] jarvis.tools.executor: Loaded 12 tools
+2026-04-08 16:28:44 [ERROR] jarvis.voice.listener: Microphone init error: Could not find PyAudio; check installation
+2026-04-08 16:28:44 [INFO] jarvis.tools.executor: Loaded 12 tools
+2026-04-08 16:28:44 [WARNING] jarvis.vision.ocr: Tesseract not found: tesseract is not installed or it's not in your PATH. See README file for more information.. Install tesseract-ocr.
+2026-04-08 16:28:44 [INFO] jarvis.vision.capture: OCR engine loaded for screen monitor
+2026-04-08 16:28:44 [INFO] jarvis.vision.capture: Screen monitor started at 2.0 FPS
+2026-04-08 16:28:44 [INFO] jarvis.voice.listener: Voice listener inactive (no mic or speech_recognition available)
+2026-04-08 16:28:44 [INFO] jarvis.assistant: Jarvis started successfully
+2026-04-08 16:28:45 [INFO] jarvis.voice.speaker: TTS engine initialized. Rate=175, Volume=1.0
+2026-04-08 16:28:50 [INFO] jarvis.ai.router: Intent: coding (0.33), Complexity: simple, Model: coding
+2026-04-08 16:29:11 [DEBUG] jarvis.ai.router: Ollama (qwen2.5-coder) responded in 20331ms

@@ -1,0 +1,37 @@
+# ═══════════════════════════════════════════════
+# Aura-X — Dependencies
+# ═══════════════════════════════════════════════
+
+# GUI Framework
+PyQt6>=6.5.0
+
+# Core AI Clients
+requests>=2.31.0
+
+# Vision & OCR
+Pillow>=10.0.0
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Desktop Automation
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+pywinauto>=0.6.8
+
+# Voice — Neural TTS (edge-tts) + audio playback
+edge-tts>=6.1.0
+pygame>=2.5.0
+
+# Voice input
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+
+# Terminal UI
+rich>=13.0.0
+
+# Optional: Office document creation
+# pip install python-docx openpyxl python-pptx
